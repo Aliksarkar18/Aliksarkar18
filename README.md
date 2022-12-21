@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Alik Sarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="800" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+<img align="center" alt="Coding" width="1000" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliksarkar18&label=Profile%20views&color=0e75b6&style=flat" alt="aliksarkar18" /> </p>
 
