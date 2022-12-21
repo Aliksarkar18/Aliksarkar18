@@ -1,7 +1,7 @@
-[![MasterHead](https:https:https://gfycat.com/kinddistortedirrawaddydolphin)](https://aliksarkar.io)
+
 <h1 align="center">Hi 👋, I'm Alik Sarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://gfycat.com/kinddistortedirrawaddydolphin">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliksarkar18&label=Profile%20views&color=0e75b6&style=flat" alt="aliksarkar18" /> </p>
 
