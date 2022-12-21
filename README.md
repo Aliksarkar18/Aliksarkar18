@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Alik Sarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+<img align="center" alt="Coding" width="445" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliksarkar18&label=Profile%20views&color=0e75b6&style=flat" alt="aliksarkar18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliksarkar18" alt="aliksarkar18" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@aliksarkar16" target="blank"><img src="https://img.shields.io/twitter/follow/@aliksarkar16?logo=twitter&style=for-the-badge" alt="@AlikSarkar16" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@AlikSarkar16" target="blank"><img src="https://img.shields.io/twitter/follow/@aliksarkar16?logo=twitter&style=for-the-badge" alt="@AlikSarkar16" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -24,6 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@aliksarkar16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aliksarkar16" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alik sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alik sarkar" height="30" width="40" /></a>
 <a href="https://instagram.com/alik_sarkar_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alik_sarkar_18" height="30" width="40" /></a>
 </p>
 
